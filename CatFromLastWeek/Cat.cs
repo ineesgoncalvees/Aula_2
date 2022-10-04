@@ -29,6 +29,7 @@ namespace CatFromLastWeek
         }
 
         public Feed FeedStatus
+        
         {
             get => feedStatus;
             private set
